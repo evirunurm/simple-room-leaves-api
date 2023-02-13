@@ -37,7 +37,6 @@ module.exports = async (req, res) => {
    const id = req.query.id;
    let data;
    try {
-      
        if (id) {
            // Si se da un ID
            data = await plantRepository.findOne(id);

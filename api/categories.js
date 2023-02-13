@@ -49,6 +49,6 @@ module.exports = async (req, res) => {
        return res.send(data);
    } catch (err) {
        console.log(err);
-       res.send("Couldn't fetch the category data! :((");
+       res.send("Couldn't fetch the category data! :(( Error:" + err);
    }
 };
