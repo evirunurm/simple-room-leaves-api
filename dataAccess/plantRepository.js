@@ -1,5 +1,7 @@
-const jsonFile = path.join(process.cwd(), 'dataAccess/data', 'plantsData.json');
 const fs = require('fs');
+const path = require('path');
+const jsonFile = path.join(process.cwd(), 'dataAccess/data', 'plantsData.json');
+
 
 const findOne = (id) => {
     const parsed = JSON.parse(fs.readFileSync(jsonFile));
