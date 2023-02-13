@@ -1,4 +1,4 @@
-const jsonFile = "dataAccess/data/categoriesData.json";
+const jsonFile = path.join(process.cwd(), 'dataAccess/data', 'categoriesData.json');
 const fs = require('fs');
 
 

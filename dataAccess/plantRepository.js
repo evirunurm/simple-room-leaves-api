@@ -1,4 +1,4 @@
-const jsonFile = "dataAccess/data/plantsData.json";
+const jsonFile = path.join(process.cwd(), 'dataAccess/data', 'plantsData.json');
 const fs = require('fs');
 
 const findOne = (id) => {
