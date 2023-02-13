@@ -1,0 +1,23 @@
+{"categories": [
+    {
+        "id": 1,
+        "name": "Aloe Vera",
+        "description" : "Esto es una categoria"
+    },
+    {
+        "id": 2,
+        "name": "Cactus",
+        "description" : "Esto es una categoria"
+    },
+    {
+        "id": 3,
+        "name": "Deco",
+        "description" : "Esto es una categoria"
+    },
+    {
+        "id": 4,
+        "name": "Succulent",
+        "description" : "Esto es una categoria"
+    }
+    
+]}

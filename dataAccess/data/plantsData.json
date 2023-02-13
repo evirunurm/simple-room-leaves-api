@@ -1,0 +1,38 @@
+{"plants":[
+    {
+        "id": 1,
+        "name": "Bush lily",
+        "stock": 20,
+        "description": "Coming forward its flower, Bush lily decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
+        "price": 19.99,
+        "height": 0.8,
+        "categoryId": 1
+    },
+    {
+        "id": 2,
+        "name": "Cush Bush",
+        "stock": 20,
+        "description": "Coming forward its flower, Cush Bush decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
+        "price": 19.99,
+        "height": 0.9,
+        "categoryId": 2
+    },
+    {
+        "id": 3,
+        "name": "Josepth's Coat",
+        "stock": 10,
+        "description": "Coming forward its flower, Josepth's Coat decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
+        "price": 23.99,
+        "height": 1.3,
+        "categoryId": 2
+    },
+    {
+        "id": 4,
+        "name": "Snake Plant",
+        "stock": 10,
+        "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
+        "price": 10.99,
+        "height": 1,
+        "categoryId": 3
+    }
+]}
