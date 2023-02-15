@@ -32,7 +32,7 @@ const summaryRepository = require("../dataAccess/summaryRepository");
 
 module.exports = async (req, res) => {
    // PARAMETERS
-   const days = req.query.days;
+   let days = req.query.days;
    let data;
    try {
       
