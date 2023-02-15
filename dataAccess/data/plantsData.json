@@ -6,6 +6,8 @@
         "description": "Coming forward its flower, Bush lily decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 19.99,
         "height": 0.8,
+        "temperature": 20,
+        "humidity": 20,
         "categoryId": 1
     },
     {
@@ -15,7 +17,9 @@
         "description": "Coming forward its flower, Cush Bush decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 19.99,
         "height": 0.9,
-        "categoryId": 2
+        "categoryId": 2,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 3,
@@ -33,7 +37,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 5.99,
         "height": 1,
-        "categoryId": 3
+        "categoryId": 3,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 5,
@@ -43,6 +49,7 @@
         "price": 10.99,
         "height": 1,
         "categoryId": 4
+        
     },
     {
         "id": 5,
@@ -51,7 +58,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 10.99,
         "height": 1,
-        "categoryId": 3
+        "categoryId": 3,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 6,
@@ -60,7 +69,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 28.99,
         "height": 1,
-        "categoryId": 4
+        "categoryId": 4,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 7,
@@ -69,7 +80,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 76.99,
         "height": 1,
-        "categoryId": 3
+        "categoryId": 3,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 8,
@@ -78,7 +91,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 68.99,
         "height": 1,
-        "categoryId": 2
+        "categoryId": 2,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 9,
@@ -96,7 +111,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 58.99,
         "height": 1,
-        "categoryId": 1
+        "categoryId": 1,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 11,
@@ -105,7 +122,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 77.99,
         "height": 1,
-        "categoryId": 3
+        "categoryId": 3,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 12,
@@ -123,7 +142,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 88.99,
         "height": 1,
-        "categoryId": 1
+        "categoryId": 1,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 14,
@@ -132,7 +153,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 25.99,
         "height": 1,
-        "categoryId": 3
+        "categoryId": 3,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 15,
@@ -150,7 +173,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 12.99,
         "height": 1,
-        "categoryId": 3
+        "categoryId": 3,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 17,
@@ -159,7 +184,9 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 10.99,
         "height": 1,
-        "categoryId": 1
+        "categoryId": 1,
+        "temperature": 21,
+        "humidity": 50
     },
     {
         "id": 18,
@@ -168,6 +195,8 @@
         "description": "Coming forward its flower, Snake Plant decorates mostly indoors such as conservatory, closed places, and so forth. Except for its common name, it has local names such as kaffir lily and natal lily. Also, its scientific name is Clivia miniata. This plant belongs to the group of Clivia and is a member of the family “Amargllidaceae”. Its native area is South Africa. But it is now everywhere thanks to its cultivars.",
         "price": 11.99,
         "height": 1,
-        "categoryId": 2
+        "categoryId": 2,
+        "temperature": 21,
+        "humidity": 50
     }
 ]}
