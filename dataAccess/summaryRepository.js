@@ -18,4 +18,4 @@ const findAll = async () => {
 
 // PROD
 exports.getLatest = getLatest;
-exports.findAll = findOne;
+exports.findAll = findAll;
